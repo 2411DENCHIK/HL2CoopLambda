@@ -1,0 +1,420 @@
+] find sk_
+"sk_npc_head" = "3" ( def. "2" ) game
+"sk_npc_chest" = "1"
+ game
+
+"sk_npc_stomach" = "1"
+ game
+
+"ai_report_task_timings_on_limit" = "0""sk_npc_arm" = "1"
+
+ game game archive
+
+"sk_npc_leg" = "1""ai_simulate_task_overtime" = "0"
+
+ game game
+"npc_task_text"
+ game cheat - Outputs text debugging information to the console about the all the tasks + break conditions of the selected NPC current schedule
+	Arguments:   	{npc_name} / {npc class_name} / no argument picks what player is looking at 
+
+"sk_ally_regen_time" = "0.2" ( def. "0.3003" )
+ game
+ - Time taken for an ally to regenerate a point of health.
+"sk_autoaim_mode" = "1"
+ game archive replicated
+"sk_player_head" = "3" game ( def. "2" )
+
+"sk_player_stomach" = "1" game
+
+ game"sk_player_chest" = "1"
+
+"sk_player_arm" = "1"
+ game
+"sk_player_leg" = "1"
+"ai_task_pre_script" = "0" game
+
+ game
+ game"sk_auto_reload_time" = "3" replicated
+
+"sk_env_headcrabcanister_shake_amplitude" = "50""sk_suitcharger" = "75"
+ ( def. "0" ) game
+
+ game"sk_env_headcrabcanister_shake_radius" = "1024"
+
+"sk_suitcharger_citadel" = "500" game ( def. "0" )
+
+"sk_env_headcrabcanister_shake_radius_vehicle" = "2500" game
+
+ game"sk_suitcharger_citadel_maxarmor" = "200"
+ ( def. "0" )
+ game"sk_smg1_grenade_radius" = "250"
+ ( def. "0" )
+ game ( def. "0" )
+
+"sk_plr_dmg_fraggrenade" = "125" game
+"sk_npc_dmg_fraggrenade" = "75"
+ ( def. "0" ) game
+"sk_fraggrenade_radius" = "250" ( def. "0" )
+"sk_dmg_inflict_scale1" = "1.50" game
+
+ game replicated
+ replicated"sk_dmg_inflict_scale2" = "1.00"
+
+"sk_dmg_take_scale2" = "1.00" game
+ replicated game
+ replicated"sk_dmg_inflict_scale3" = "0.75"
+
+"sk_dmg_take_scale3" = "1.50" game
+ replicated game
+ replicated"sk_dmg_take_scale1" = "0.50"
+
+"sk_allow_autoaim" = "1" game
+ game replicated replicated
+
+"sk_autoaim_scale1" = "1.0""sk_autoaim_scale2" = "1.0"
+
+ game game replicated
+"sk_ammo_qty_scale1" = "1.20"
+"sk_ammo_qty_scale3" = "0.60" game
+ replicated game
+ replicated"sk_ammo_qty_scale2" = "1.00"
+
+"sk_plr_health_drop_time" = "30" game
+ replicated game
+ replicated
+"sk_plr_grenade_drop_time" = "30"
+
+ game game replicated replicated
+
+"sk_plr_dmg_ar2" = "8""sk_max_ar2" = "60" ( def. "0" ) ( def. "0" )
+
+ game game replicated replicated
+
+"sk_npc_dmg_ar2" = "3""sk_max_ar2_altfire" = "3" ( def. "0" ) ( def. "0" )
+ game game replicated replicated
+
+"sk_plr_dmg_alyxgun" = "5""sk_npc_dmg_alyxgun" = "3" ( def. "0" ) ( def. "0" )
+
+ game replicated
+
+ game"sk_max_alyxgun" = "150" replicated ( def. "0" )
+"sk_plr_dmg_pistol" = "5" ( def. "0" )
+ game replicated
+"sk_npc_dmg_pistol" = "3" replicated ( def. "0" )
+
+"sk_max_pistol" = "150" game ( def. "0" )
+ game"sk_plr_dmg_smg1" = "4" replicated ( def. "0" )
+
+ game replicated
+"sk_npc_dmg_smg1" = "3" ( def. "0" )
+ game replicated
+"sk_max_smg1" = "225" ( def. "0" )
+ game replicated
+"sk_plr_dmg_buckshot" = "8" ( def. "0" )
+ game replicated
+
+ game"sk_npc_dmg_buckshot" = "3" replicated ( def. "0" )
+
+"sk_plr_dmg_rpg_round" = "100" game ( def. "0" ) replicated
+
+ game"sk_max_buckshot" = "30" replicated ( def. "0" )
+
+"sk_npc_dmg_rpg_round" = "50" game ( def. "0" ) replicated
+
+ game"sk_plr_num_shotgun_pellets" = "7" replicated
+"sk_max_rpg_round" = "3" ( def. "0" )
+ replicated game
+ replicated"sk_plr_dmg_grenade" = "150"
+ ( def. "0" )"sk_plr_dmg_sniper_round" = "20"
+ ( def. "0" ) game
+ replicated game
+ replicated"sk_npc_dmg_grenade" = "75"
+ ( def. "0" )"sk_npc_dmg_sniper_round" = "100"
+ ( def. "0" ) game
+ replicated game
+ replicated"sk_max_grenade" = "5"
+ ( def. "0" )"sk_max_sniper_round" = "30"
+ ( def. "0" ) game
+ replicated game
+"sk_plr_dmg_smg1_grenade" = "100" ( def. "0" )
+ game replicated
+"sk_npc_dmg_smg1_grenade" = "50""sk_plr_dmg_357" = "40" ( def. "0" ) ( def. "0" )
+
+ game game replicated replicated
+
+"sk_max_smg1_grenade" = "3""sk_npc_dmg_357" = "30" ( def. "0" ) ( def. "0" )
+
+ game game replicated replicated
+
+"sk_max_357" = "12" ( def. "0" )
+ game ( def. "0" ) replicated
+
+ game"sk_plr_dmg_crossbow" = "100" replicated ( def. "0" )
+
+"sk_max_crossbow" = "10" game ( def. "0" ) replicated
+
+ game"sk_npc_dmg_crossbow" = "10" replicated
+"sk_dmg_sniper_penetrate_plr" = "0"
+ game replicated game
+ replicated"sk_dmg_sniper_penetrate_npc" = "0"
+
+"sk_plr_dmg_airboat" = "3" ( def. "0" )
+ game replicated
+"sk_npc_dmg_airboat" = "3"
+ ( def. "0" ) game
+ replicated game
+ replicated
+"sk_battery" = "15""sk_max_gauss_round" = "30" ( def. "0" ) ( def. "0" )
+
+ game game
+ replicated
+"sk_dynamic_resupply_modifier" = "1.0""sk_npc_dmg_gunship" = "40"
+ ( def. "0" ) game
+
+ game"sk_healthkit" = "25" replicated ( def. "0" )
+
+"sk_npc_dmg_gunship_to_plr" = "3" game ( def. "0" )
+"sk_healthvial" = "10" ( def. "0" )"sk_antlion_jump_damage" = "5"
+ ( def. "0" ) game
+
+ game"sk_healthcharger" = "50"
+ ( def. "0" )"sk_antlion_air_attack_dmg" = "0"
+
+ game game
+
+"sk_antlion_health" = "30""sk_antlionguard_dmg_charge" = "20" ( def. "0" ) ( def. "0" )
+
+ game game
+
+"sk_antlion_swipe_damage" = "5""sk_antlionguard_dmg_shove" = "10" ( def. "0" ) ( def. "0" )
+
+ game game
+
+"sk_antlionguard_health" = "500" - The angle in degrees of the cone in which the shots will be fired
+ ( def. "0" )"sk_helicopter_burstcount" = "12"
+
+ game game
+
+"sk_helicopter_health" = "5600" - How many shot bursts to fire after charging up. The bigger the number, the longer the firing is
+
+"sk_helicopter_roundsperburst" = "5" game
+
+ game"sk_helicopter_firingcone" = "20.0"
+
+ - How many shots to fire in a single burst
+ game"sk_helicopter_grenadedamage" = "30"
+ ( def. "25.0" )
+ game
+ - The amount of damage the helicopter grenade deals.
+"sk_helicopter_grenaderadius" = "275" ( def. "275.0" )
+ game
+ - The damage radius of the helicopter grenade.
+"sk_helicopter_grenadeforce" = "55000" ( def. "55000.0" )"sk_helicopter_num_bombs3" = "5"
+
+ game game
+
+ - The physics force that the helicopter grenade exerts.
+"sk_npc_dmg_helicopter_to_plr" = "3""sk_helicopter_grenade_puntscale" = "1.5"
+
+ game game
+
+ - Damage helicopter shots deal to the player
+ - When physpunting a chopper's grenade, scale its velocity by this much.
+"sk_npc_dmg_helicopter" = "6""sk_helicopter_num_bombs1" = "3"
+
+ game game
+
+ - Damage helicopter shots deal to everything but the player
+"sk_helicopter_num_bombs2" = "5""sk_helicopter_drone_speed" = "450.0"
+
+ game game
+
+ - How fast does the zapper drone move?
+"sk_barnacle_health" = "35" ( def. "0" )
+ game
+ game"sk_barney_health" = "35"
+ ( def. "0" )"sk_scanner_dmg_dive" = "25"
+ ( def. "0" )
+ game
+
+ game"sk_zombie_dmg_one_slash" = "10"
+ ( def. "0" )"sk_bullseye_health" = "35"
+ ( def. "0" ) game
+
+ game"sk_zombie_dmg_both_slash" = "25"
+ ( def. "0" )"sk_citizen_health" = "40" ( def. "0" )
+
+ game game
+
+"sk_citizen_heal_player" = "25""sk_citizen_giveammo_player_delay" = "10"
+
+ game game
+
+"sk_citizen_heal_player_delay" = "25""sk_citizen_heal_player_min_pct" = "0.60"
+ game
+"sk_citizen_heal_ally_delay" = "20""sk_citizen_heal_player_min_forced" = "10.0"
+
+ game game
+
+"sk_citizen_heal_ally_min_pct" = "0.90""sk_citizen_heal_ally" = "30"
+
+ game game
+
+"sk_citizen_player_stare_time" = "1.0"
+ game
+"sk_dropship_container_health" = "750""sk_citizen_player_stare_dist" = "72"
+
+ game game
+
+"sk_npc_dmg_dropship" = "2""sk_citizen_stare_heal_time" = "5" ( def. "5" )
+
+ game game
+
+ - Dropship container cannon damage.
+
+"sk_gunship_burst_size" = "15" game
+
+ game"sk_gunship_burst_dist" = "768"
+
+"sk_gunship_burst_min" = "800" game
+"sk_gunship_health_increments" = "5"
+ ( def. "0" )"sk_combine_s_health" = "50"
+ ( def. "0" ) game
+ game
+"sk_combine_s_kick" = "10" ( def. "0" )
+ game
+"sk_combine_guard_health" = "70" ( def. "0" )
+ game
+"sk_combine_guard_kick" = "15" ( def. "0" )
+ game
+"sk_crow_health" = "1"
+ game
+"sk_crow_melee_dmg" = "0"
+ game
+"sk_headcrab_health" = "10" ( def. "0" )
+ game
+"sk_headcrab_fast_health" = "10" ( def. "0" )
+ game
+"sk_headcrab_poison_health" = "35" ( def. "0" )
+ game
+"sk_headcrab_melee_dmg" = "5" ( def. "0" )
+ game
+"sk_headcrab_poison_npc_damage" = "0"
+ game
+"sk_ichthyosaur_health" = "200" ( def. "0" )
+ game
+"sk_ichthyosaur_melee_dmg" = "8" ( def. "0" )
+ game
+"sk_manhack_health" = "25" ( def. "0" )
+ game
+"sk_manhack_melee_dmg" = "20" ( def. "0" )
+ game
+"sk_manhack_v2" = "1"
+ game
+"sk_metropolice_stitch_reaction" = "1.0" game
+
+ game"sk_metropolice_stitch_at_hitcount" = "1"
+
+"sk_metropolice_stitch_tight_hitcount" = "2" game
+
+"sk_metropolice_stitch_behind_hitcount" = "3"
+ game ( def. "0" )
+
+"sk_metropolice_stitch_along_hitcount" = "2" game
+
+ game"sk_metropolice_simple_health" = "26"
+
+"sk_metropolice_health" = "40" game
+"sk_metropolice_stitch_distance" = "1000"
+"sk_zombie_poison_health" = "175" game ( def. "0" )
+
+ game
+"sk_zombie_poison_dmg_spit" = "20" ( def. "0" )
+ game
+"sk_rollermine_shock" = "10" ( def. "0" )"sk_rollermine_stun_delay" = "3"
+ ( def. "1" ) game
+
+ game
+"sk_rollermine_vehicle_intercept" = "1"
+
+"sk_scanner_health" = "30" game ( def. "0" )
+ game
+"sk_stalker_health" = "50" ( def. "0" )
+ game
+
+"sk_stalker_melee_dmg" = "5""sk_strider_health" = "350" ( def. "0" )
+
+ game game
+
+"sk_strider_num_missiles1" = "5""sk_strider_num_missiles3" = "7"
+
+ game game
+
+"sk_strider_num_missiles2" = "7""sk_vortigaunt_armor_charge" = "30"
+
+ game game
+"sk_vortigaunt_armor_charge_per_token" = "5"
+
+ game"sk_vortigaunt_dmg_claw" = "10"
+ ( def. "0" )"sk_vortigaunt_health" = "100"
+ ( def. "0" ) game
+
+ game"sk_vortigaunt_dmg_rake" = "25" ( def. "0" )
+ game
+"sk_vortigaunt_dmg_zap" = "50" ( def. "0" ) game
+
+ game - Range of vortigaunt's ranged attack (feet)
+
+"sk_vortigaunt_vital_antlion_worker_dmg" = "0.2""sk_vortigaunt_zap_range" = "100"
+
+ game
+ - Vital-ally vortigaunts scale damage taken from antlion workers by this amount.
+"sk_zombie_health" = "50" ( def. "0" )
+ game
+"sk_npc_dmg_combineball" = "15"
+ game replicated
+"sk_combineball_guidefactor" = "1.0" ( def. "0.5" )
+ game replicated
+"sk_combine_ball_search_radius" = "512"
+ game replicated
+"sk_combineball_seek_angle" = "15" ( def. "15.0" )
+ game replicated
+"sk_combineball_seek_kill" = "0"
+ game replicated
+"sk_airboat_max_ammo" = "100"
+ game
+"sk_airboat_recharge_rate" = "15"
+ game
+"sk_airboat_drain_rate" = "10"
+ game
+"sk_jeep_gauss_damage" = "15"
+ game
+"sk_weapon_ar2_alt_fire_radius" = "10"
+ game
+"sk_weapon_ar2_alt_fire_duration" = "2"
+ game
+"sk_weapon_ar2_alt_fire_mass" = "150"
+ game
+"sk_plr_dmg_crowbar" = "10" ( def. "0" )
+ game
+"sk_npc_dmg_crowbar" = "5" ( def. "0" )
+ game
+"sk_crowbar_lead_time" = "0.9"
+ game
+"sk_apc_missile_damage" = "15"
+ game
+"sk_plr_dmg_stunstick" = "10" ( def. "0" )
+ game
+"sk_npc_dmg_stunstick" = "40" ( def. "0" )
+ game
+"sk_dmg_homer_grenade" = "20" ( def. "0" )
+ game
+"sk_homer_grenade_radius" = "100" ( def. "0" )
+ game
+"sk_dmg_pathfollower_grenade" = "0"
+ game
+"sk_pathfollower_grenade_radius" = "0"
+ game
+"sk_apc_health" = "750"
+ game
+]

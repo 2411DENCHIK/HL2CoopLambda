@@ -1,0 +1,16 @@
+Parsing the output from developer 2:
+
+With Delay: 
+	Example: (ambient_attack_start_1,PlaySound,1.5)()
+	
+	\((.*),(.*),(.*)\)\((.*)\)
+	to
+	{"\1", "\2", \3, "\4"},
+	
+Without: 
+	Example: (logic_battlefx_start_1,Trigger)()
+	
+	\((.*),(.*)\)\((.*)\)
+	to
+	{"\1", "\2", 0, "\3"},
+	
